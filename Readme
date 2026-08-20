@@ -2,7 +2,7 @@
 
 An end-to-end Excel project: messy raw data → cleaning → validation → pivot analysis → dashboard. Built this to actually show the Excel/data-analyst skills I've been learning instead of just listing them on a resume.
 
-**⚠️ Note:** all data here is synthetic — I generated it myself with randomized values. It's _not_ real defense/army data, doesn't represent any actual unit, vendor, or procurement record. I just used a requisition-tracking scenario because it's close to the kind of analyst work I'm targeting, and it's more interesting than yet another "sample sales data" template.
+** Note:** all data here is synthetic — I generated it myself with randomized values. It's _not_ real defense/army data, doesn't represent any actual unit, vendor, or procurement record. I just used a requisition-tracking scenario because it's close to the kind of analyst work I'm targeting, and it's more interesting than yet another "sample sales data" template.
 
 ## Why I built it this way
 
