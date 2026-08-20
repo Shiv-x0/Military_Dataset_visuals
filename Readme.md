@@ -25,16 +25,16 @@ Then I cleaned it the way you'd actually have to — in Excel, with formulas, no
 ## Screenshots
 
 **Dashboard**
-![Dashboard](screenshots/01_dashboard.png)
+![Dashboard](01_dashboard.png)
 
 **Before — raw data as exported**
-![Raw data](screenshots/02_raw_data.png)
+![Raw data](02_raw_data.png)
 
 **After — cleaned, standardized, with audit flags**
-![Cleaned data](screenshots/03_cleaned_data.png)
+![Cleaned data](03_cleaned_data.png)
 
 **Pivot-style summary (Unit × Status)**
-![Pivot table](screenshots/04_pivot_unit_status.png)
+![Pivot table](04_pivot_unit_status.png)
 
 ## What the data actually says
 
