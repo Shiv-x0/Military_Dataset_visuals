@@ -31,7 +31,7 @@ Then I cleaned it the way you'd actually have to — in Excel, with formulas, no
 ![Raw data](Screenshots/02_raw_data.png)
 
 **After — cleaned, standardized, with audit flags**
-![Cleaned data](03_cleaned_data.png)
+![Cleaned data](Screenshots/03_cleaned_data.png)
 
 **Pivot-style summary (Unit × Status)**
 ![Pivot table](04_pivot_unit_status.png)
