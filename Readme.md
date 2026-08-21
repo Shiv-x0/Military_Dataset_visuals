@@ -25,7 +25,7 @@ Then I cleaned it the way you'd actually have to — in Excel, with formulas, no
 ## Screenshots
 
 **Dashboard**
-![Dashboard](Screenshots/01_dashboard.pngScreenshots/01_dashboard.png)
+![Dashboard](Screenshots/01_dashboard.png)
 
 **Before — raw data as exported**
 ![Raw data](02_raw_data.png)
