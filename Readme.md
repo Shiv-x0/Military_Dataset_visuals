@@ -28,7 +28,7 @@ Then I cleaned it the way you'd actually have to — in Excel, with formulas, no
 ![Dashboard](Screenshots/01_dashboard.png)
 
 **Before — raw data as exported**
-![Raw data](02_raw_data.png)
+![Raw data](Screenshots/02_raw_data.png)
 
 **After — cleaned, standardized, with audit flags**
 ![Cleaned data](03_cleaned_data.png)
