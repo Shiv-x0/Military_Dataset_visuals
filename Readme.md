@@ -34,7 +34,7 @@ Then I cleaned it the way you'd actually have to — in Excel, with formulas, no
 ![Cleaned data](Screenshots/03_cleaned_data.png)
 
 **Pivot-style summary (Unit × Status)**
-![Pivot table](04_pivot_unit_status.png)
+![Pivot table](Screenshots/04_pivot_unit_status.png)
 
 ## What the data actually says
 
